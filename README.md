@@ -5,16 +5,16 @@ In this particular repo I have put all the concepts of AJAX .
 
 # What is An AJAX?
 
-   Asynchronous Java script and Xml
-   It is not a programming language
-   No Page Reload and refresh
-   Better user Interface..
-   Very Interactive
+   * Asynchronous Java script and Xml
+   * It is not a programming language
+   * No Page Reload and refresh
+   * Better user Interface..
+  * Very Interactive
 
 # How it works?
 
-   1.It uses XMLHttpRequest Object also called xhr Object.
-   2.It uses JSON instead or XML for data Transform
+   * It uses XMLHttpRequest Object also called xhr Object.
+   * It uses JSON instead or XML for data Transform
 
 
     console.log('This is ajax tutorial....');
